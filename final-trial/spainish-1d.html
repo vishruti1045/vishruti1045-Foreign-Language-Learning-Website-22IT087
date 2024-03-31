@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./spainish-1d.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="spainish-1d">
+      <div class="rectangle-parent2">
+        <div class="group-inner"></div>
+        <div class="div1">1/5</div>
+      </div>
+      <div class="spainish-1d-child"></div>
+      <div class="perro-perro">Perro perro</div>
+      <div class="spainish-1d-item"></div>
+      <div class="spainish-1d-inner"></div>
+      <div class="spainish-1d-child1"></div>
+      <div class="what-does-picture1">What does picture shows ?</div>
+      <div class="spainish-1d-child2"></div>
+      <div class="pictionary1">Pictionary</div>
+      <img class="dog-icon1" alt="" src="./public/dog@2x.png" />
+
+      <div class="gato">gato</div>
+      <div class="nio">niño</div>
+      <div class="hombre">hombre</div>
+      <div class="vector-group" id="groupContainer1">
+        <img class="rectangle-icon" alt="" src="./public/rectangle-39.svg" />
+
+        <button class="try-again" id="tryAgain">try again</button>
+      </div>
+    </div>
+
+    <script>
+      var tryAgain = document.getElementById("tryAgain");
+      if (tryAgain) {
+        tryAgain.addEventListener("click", function (e) {
+          window.location.href = "./spainish-a.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./spainish-a.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,156 @@
+.group-child120 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div68 {
+  position: absolute;
+  top: 2px;
+  left: 81px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent69 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.german-4a-child,
+.german-4a-child1,
+.german-4a-inner,
+.german-4a-item {
+  position: absolute;
+  top: 773px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.german-4a-child1,
+.german-4a-inner,
+.german-4a-item {
+  top: 588px;
+}
+.german-4a-child1,
+.german-4a-inner {
+  top: 680px;
+}
+.german-4a-child1 {
+  top: 486px;
+  left: 327px;
+  background-color: var(--color-lightcoral);
+}
+.what-does-picture68 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  color: var(--color-white);
+}
+.german-4a-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary68 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.german-4a-child3 {
+  position: absolute;
+  top: 186px;
+  left: 395px;
+  border-radius: 50%;
+  width: 190px;
+  height: 208px;
+  object-fit: cover;
+}
+.group-child121 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.try-again41,
+.vector-parent52 {
+  position: absolute;
+  cursor: pointer;
+}
+.try-again41 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 24px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent52 {
+  top: 936px;
+  left: 454px;
+  width: 114px;
+  height: 43px;
+}
+.mdchen10,
+.weiblich6 {
+  position: absolute;
+  top: 288px;
+  left: 0;
+}
+.mdchen10 {
+  top: 0;
+  left: 6px;
+}
+.katze14,
+.oh-mann6 {
+  position: absolute;
+  top: 98px;
+  left: 8px;
+}
+.oh-mann6 {
+  top: 193px;
+  left: 6px;
+}
+.german-4a-inner1,
+.weiblich-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98px;
+  height: 314px;
+}
+.german-4a-inner1 {
+  top: 504px;
+  left: 454px;
+}
+.german-4a {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

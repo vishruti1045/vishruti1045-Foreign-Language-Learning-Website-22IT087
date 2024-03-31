@@ -1,0 +1,184 @@
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div,
+.group-child,
+.group-div {
+  position: absolute;
+}
+.div {
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.group-div {
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.spainish-a1-child,
+.spainish-a1-inner,
+.spainish-a1-item {
+  position: absolute;
+  top: 686px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.spainish-a1-inner,
+.spainish-a1-item {
+  top: 794px;
+}
+.spainish-a1-inner {
+  top: 490px;
+}
+.aperro-perro {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 500px;
+  left: 474px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.spainish-a1-child1 {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.group-icon {
+  position: absolute;
+  top: 490px;
+  left: 349px;
+  width: 35px;
+  height: 349px;
+}
+.what-does-picture {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.spainish-a1-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.bgato,
+.cnio {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.bgato {
+  cursor: pointer;
+  position: absolute;
+  top: 597px;
+  left: 481px;
+}
+.cnio {
+  top: 695px;
+  left: 480px;
+}
+.cnio,
+.dhombre,
+.group-item {
+  position: absolute;
+  cursor: pointer;
+}
+.dhombre {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 808px;
+  left: 481px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.back {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+}
+.vector-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 916px;
+  left: 450px;
+  width: 114px;
+  height: 43px;
+}
+.spainish-a1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

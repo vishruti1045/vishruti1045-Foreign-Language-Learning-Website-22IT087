@@ -1,0 +1,146 @@
+.group-child17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div11 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-3d-child,
+.spainish-3d-inner,
+.spainish-3d-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-3d-inner,
+.spainish-3d-item {
+  top: 797px;
+  background-color: var(--color-lightcoral);
+}
+.spainish-3d-inner {
+  top: 686px;
+  background-color: var(--color-gainsboro-200);
+}
+.what-does-picture11 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  color: var(--color-white);
+}
+.spainish-3d-child1 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary11 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.gato8 {
+  position: absolute;
+  top: 499px;
+  left: 473px;
+}
+.spainish-3d-child2 {
+  position: absolute;
+  top: 182px;
+  left: 363px;
+  border-radius: 50%;
+  width: 242px;
+  height: 210px;
+  object-fit: cover;
+}
+.spainish-3d-child3 {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.chica4,
+.perro-perro8 {
+  position: absolute;
+  top: 591px;
+  left: 473px;
+}
+.chica4 {
+  top: 696px;
+}
+.group-child18,
+.mujeres {
+  position: absolute;
+  top: 806px;
+  left: 450px;
+}
+.group-child18 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.try-again6,
+.vector-parent6 {
+  position: absolute;
+  cursor: pointer;
+}
+.try-again6 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 24px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent6 {
+  top: 921px;
+  left: 465px;
+  width: 114px;
+  height: 43px;
+}
+.spainish-3d {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

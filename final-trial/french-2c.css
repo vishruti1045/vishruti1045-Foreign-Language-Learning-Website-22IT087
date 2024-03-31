@@ -1,0 +1,143 @@
+.group-child59 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div34 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent35 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.french-2c-child,
+.french-2c-inner,
+.french-2c-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.french-2c-inner,
+.french-2c-item {
+  top: 588px;
+}
+.french-2c-inner {
+  top: 797px;
+}
+.french-2c-child1 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue6,
+.what-does-picture34 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture34 {
+  top: 411px;
+  left: 364px;
+}
+.french-2c-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary34 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon19 {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.french-2c-child3 {
+  position: absolute;
+  top: 689px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-aquamarine);
+  width: 338px;
+  height: 45px;
+}
+.chien7,
+.le-chat7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.le-chat7 {
+  top: 97px;
+  left: 7px;
+}
+.chien-parent5,
+.fille3,
+.garon7 {
+  position: absolute;
+  top: 195px;
+  left: 7px;
+}
+.chien-parent5,
+.fille3 {
+  top: 306px;
+}
+.chien-parent5 {
+  top: 510px;
+  left: 474px;
+  width: 76px;
+  height: 332px;
+}
+.french-2c {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

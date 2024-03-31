@@ -1,0 +1,150 @@
+.group-child186 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div183 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent104 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-travel-4-child,
+.spainish-travel-4-item {
+  position: absolute;
+  border-radius: var(--br-2xs);
+  width: 338px;
+}
+.spainish-travel-4-child {
+  top: 611px;
+  left: 320px;
+  background-color: var(--color-gainsboro-200);
+  height: 45px;
+  cursor: pointer;
+}
+.spainish-travel-4-item {
+  top: 36px;
+  left: 328px;
+  background-color: var(--color-gainsboro-300);
+  height: 62px;
+}
+.lets-travel3 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.spainish-travel-4-inner {
+  position: absolute;
+  top: 699px;
+  left: 317px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.screenshare-volume-max3 {
+  position: absolute;
+  top: 699px;
+  left: 341px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.hotel-1-icon {
+  position: absolute;
+  top: 199px;
+  left: 317px;
+  width: 349px;
+  height: 361px;
+  object-fit: cover;
+}
+.places-to-visit {
+  position: absolute;
+  top: 621px;
+  left: 428px;
+}
+.group-child187,
+.lugares-para-visitar {
+  position: absolute;
+  top: 702px;
+  left: 407px;
+}
+.group-child187 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back23,
+.group-child188 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.group-child188 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue23 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent83,
+.vector-parent84 {
+  position: absolute;
+  top: 0;
+  left: 591px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.vector-parent83 {
+  top: 782px;
+  left: 155px;
+  width: 705px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.spainish-travel-4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

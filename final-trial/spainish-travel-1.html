@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./spainish-travel-1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="spainish-travel-1" id="spainishTravel1Container">
+      <div class="rectangle-parent101">
+        <div class="group-child177"></div>
+        <div class="div180">1/5</div>
+      </div>
+      <div class="spainish-travel-1-child" id="rectangle"></div>
+      <div class="spainish-travel-1-item"></div>
+      <div class="lets-travel">Let’s travel</div>
+      <img
+        class="weather-icon-clipart-xl-1"
+        alt=""
+        src="./public/weathericonclipartxl-1@2x.png"
+      />
+      <div class="screenshare-volume-max" id="textToSpeechIcon"></div>
+
+      <div class="weather">Weather</div>
+      <div class="vector-parent77" id="groupContainer1">
+        <img
+          class="group-child178"
+          alt=""
+          src="./public/rectangle-39.svg"
+          id="rectangle"
+        />
+
+        <div class="back20">Back</div>
+      </div>
+      <div class="spainish-travel-1-inner" id="rectangle2"></div>
+      <img
+        class="screenshare-volume-max"
+        alt=""
+        src="./public/screenshare-volume-max.svg"
+      />
+
+      <div class="clima">clima</div>
+      <div class="vector-parent78" id="groupContainer2">
+        <img class="group-child179" alt="" src="./public/rectangle-39.svg" />
+
+        <button class="continue20" id="continue">Continue</button>
+      </div>
+    </div>
+
+    <script>
+      var rectangle = document.getElementById("continue");
+      if(rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./spainish-travel-2.html"
+        });
+      }
+
+
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if(groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./choose-spain-pur.html"
+        });
+      }
+
+      // Function to handle text-to-speech when the SVG image is clicked
+      function handleTextToSpeech() {
+  // Check if the SpeechSynthesis API is available
+  if ('speechSynthesis' in window) {
+    // Create a new SpeechSynthesisUtterance object
+    const message = new SpeechSynthesisUtterance('clima');
+
+    // Set additional parameters if needed
+    // For example:
+    // message.rate = 1.2; // Speed of speech (1 is the default)
+
+    // Speak the message
+    window.speechSynthesis.speak(message);
+  } else {
+    // SpeechSynthesis API is not supported
+    alert('Text-to-speech is not supported in this browser.');
+  }
+}
+
+// Add event listener to the SVG image for text-to-speech functionality
+var textToSpeechIcon = document.getElementById("textToSpeechIcon");
+if (textToSpeechIcon) {
+  textToSpeechIcon.addEventListener("click", handleTextToSpeech);
+}
+
+    </script>
+  </body>
+</html>

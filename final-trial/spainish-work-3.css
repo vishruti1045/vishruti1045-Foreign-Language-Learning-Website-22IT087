@@ -1,0 +1,136 @@
+.group-child243 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div207 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent123 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-work-3-child {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.lets-greet2 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.spainish-work-3-inner,
+.spainish-work-3-item {
+  position: absolute;
+  top: 226px;
+  left: 323px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.spainish-work-3-inner {
+  top: 405px;
+  left: 320px;
+}
+.screenshare-volume-max22 {
+  position: absolute;
+  top: 405px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.gracias-por-venir {
+  position: absolute;
+  top: 412px;
+  left: 403px;
+}
+.group-child244,
+.thank-you-for {
+  position: absolute;
+  top: 229px;
+  left: 381px;
+}
+.group-child244 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue42 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-child245,
+.vector-parent121 {
+  position: absolute;
+  top: 547px;
+  left: 743px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.group-child245 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.back42 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent122 {
+  position: absolute;
+  top: 542px;
+  left: 193px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.spainish-work-3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

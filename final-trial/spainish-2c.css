@@ -1,0 +1,139 @@
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div9 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-2c-child {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.perro-perro7 {
+  position: absolute;
+  top: 500px;
+  left: 474px;
+}
+.spainish-2c-inner,
+.spainish-2c-item {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-2c-inner {
+  top: 797px;
+}
+.spainish-2c-child1 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue1,
+.what-does-picture9 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture9 {
+  top: 411px;
+  left: 364px;
+}
+.spainish-2c-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary9 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon9 {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.gato7 {
+  position: absolute;
+  top: 597px;
+  left: 481px;
+}
+.spainish-2c-child3 {
+  position: absolute;
+  top: 689px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-aquamarine);
+  width: 338px;
+  height: 45px;
+}
+.chica3,
+.nio7 {
+  position: absolute;
+  top: 695px;
+  left: 481px;
+}
+.chica3 {
+  top: 806px;
+}
+.spainish-2c {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+  <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+  <h1>Register Yourself</h1>
+  <div class="container">
+    <form name="RegForm" onsubmit="return GEEKFORGEEKS()">
+      <div>
+        <label for="username">Username:</label>
+        <input type="text" id="username" required>
+      </div>
+      <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+      </div>
+      <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" required>
+      </div>
+      <p>Already a user? <a href="./sign-in.html">Login here</a></p>
+      
+      <button type="submit">Signup</button>
+    </form>
+  </div>
+
+
+  <script>
+document.forms.RegForm.addEventListener('submit', function(event) {
+  event.preventDefault(); // Prevent the default form submission behavior
+  
+  // Perform form validation
+  if (GEEKFORGEEKS()) {
+    alert("Form submitted successfully!");
+    window.location.href = "./choose-lang.html"; // Redirect to another page
+  } 
+});
+
+    function GEEKFORGEEKS() {
+      const name = document.forms.RegForm.username.value;
+      const email = document.forms.RegForm.email.value;
+      const password = document.forms.RegForm.password.value;
+
+      if (name === "" || name.includes('0') || name.includes('1') || name.includes('2') || name.includes('3') || name.includes('4') || name.includes('5') || name.includes('6') || name.includes('7') || name.includes('8') || name.includes('9')) {
+        alert("Please enter your name properly.");
+        document.getElementById('username').focus();
+        return false;
+      }
+
+      if (email === "" || !email.includes('@')) {
+        alert("Please enter a valid email address.");
+        document.getElementById('email').focus();
+        return false;
+      }
+
+      if (password === "") {
+        alert("Please enter your password");
+        document.getElementById('password').focus();
+        return false;
+      }
+
+      if (password.length < 6) {
+        alert("Password should be at least 6 characters long");
+        document.getElementById('password').focus();
+        return false;
+      }
+
+      // If validation passes, submit the form
+      return true;
+    }
+
+  </script>
+</body>
+</html>

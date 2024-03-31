@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./japanese-1a.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="japanese-1a">
+      <div class="rectangle-parent80">
+        <div class="group-child140"></div>
+        <div class="div91">1/5</div>
+      </div>
+      <div class="japanese-1a-child"></div>
+      <div class="japanese-1a-item"></div>
+      <div class="japanese-1a-inner"></div>
+      <div class="japanese-1a-child1"></div>
+      <img
+        class="japanese-1a-child2"
+        alt=""
+        src="./public/rectangle-39.svg"
+        id="rectangle4"
+      />
+
+      <button class="continue15" id="continue">Continue</button>
+      <div class="what-does-picture79">What does picture shows ?</div>
+      <div class="japanese-1a-child3"></div>
+      <div class="pictionary79">Pictionary</div>
+      <img class="dog-icon34" alt="" src="./public/dog@2x.png" />
+
+      <div class="parent1">
+        <div class="div92">犬</div>
+        <div class="div93">猫</div>
+        <div class="div94">少年</div>
+        <div class="div95">男</div>
+      </div>
+    </div>
+
+    <script>
+      var rectangle4 = document.getElementById("rectangle4");
+      if(rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "./japanese-c.html"
+        });
+      }
+
+      var continue = document.getElementById("continue");
+      if(continue) {
+        continue.addEventListener("click", function (e) {
+          window.location.href = "./japanese-c.html"
+        });
+      }
+    </script>
+  </body>
+</html>

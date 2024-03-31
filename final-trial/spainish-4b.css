@@ -1,0 +1,146 @@
+.group-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div17 {
+  position: absolute;
+  top: 2px;
+  left: 81px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 127px;
+  left: 335px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-4b-child,
+.spainish-4b-item {
+  position: absolute;
+  top: 764px;
+  left: 271px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-4b-item {
+  top: 579px;
+  background-color: var(--color-lightcoral);
+}
+.mujeres5 {
+  position: absolute;
+  top: 778px;
+  left: 416px;
+}
+.spainish-4b-child1,
+.spainish-4b-inner {
+  position: absolute;
+  top: 671px;
+  left: 271px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-4b-child1 {
+  top: 477px;
+  left: 270px;
+}
+.chica9 {
+  position: absolute;
+  top: 490px;
+  left: 422px;
+}
+.what-does-picture17 {
+  position: absolute;
+  top: 402px;
+  left: 307px;
+  color: var(--color-white);
+}
+.spainish-4b-child2 {
+  position: absolute;
+  top: 27px;
+  left: 271px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary17 {
+  position: absolute;
+  top: 37px;
+  left: 366px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.gato13 {
+  position: absolute;
+  top: 588px;
+  left: 424px;
+}
+.spainish-4b-child3 {
+  position: absolute;
+  top: 177px;
+  left: 338px;
+  border-radius: 50%;
+  width: 190px;
+  height: 208px;
+  object-fit: cover;
+}
+.group-child29,
+.hombre5 {
+  position: absolute;
+  top: 683px;
+  left: 422px;
+}
+.group-child29 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.try-again10,
+.vector-parent11 {
+  position: absolute;
+  cursor: pointer;
+}
+.try-again10 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 24px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent11 {
+  top: 916px;
+  left: 440px;
+  width: 114px;
+  height: 43px;
+}
+.spainish-4b {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

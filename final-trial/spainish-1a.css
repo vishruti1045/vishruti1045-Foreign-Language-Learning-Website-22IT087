@@ -1,0 +1,138 @@
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div4 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-1a-child {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-aquamarine);
+  width: 338px;
+  height: 45px;
+}
+.perro-perro3 {
+  position: absolute;
+  top: 500px;
+  left: 474px;
+}
+.spainish-1a-child1,
+.spainish-1a-inner,
+.spainish-1a-item {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-1a-child1,
+.spainish-1a-inner {
+  top: 794px;
+}
+.spainish-1a-child1 {
+  top: 686px;
+}
+.spainish-1a-child2 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.continue,
+.what-does-picture4 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture4 {
+  top: 411px;
+  left: 364px;
+}
+.spainish-1a-child3 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary4 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon4 {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.gato3,
+.hombre3,
+.nio3 {
+  position: absolute;
+  top: 597px;
+  left: 481px;
+}
+.hombre3,
+.nio3 {
+  top: 695px;
+  left: 480px;
+}
+.hombre3 {
+  top: 808px;
+  left: 481px;
+}
+.spainish-1a {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

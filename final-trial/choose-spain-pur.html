@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./choose-spain-pur.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="choose-spain-pur">
+      <div class="frame">
+        <div class="frame1">
+          <img
+            class="data-management-reciept-doc1"
+            alt=""
+            src="./public/data-management---reciept-document-paper-page-woman-people-pages@2x.png"
+          />
+
+          <div class="frame2">
+            <div class="frame3">
+              <div class="frame4">
+                <div class="rectangle-group">
+                  <div class="frame-item"></div>
+                  <div class="choose-the-purpose">Choose the purpose</div>
+                </div>
+                <div class="frame5">
+                  <div class="why-do-you">
+                    Why do you want to learn foreign language ?
+                  </div>
+                </div>
+              </div>
+              <div class="frame6">
+                <div class="frame7">
+                  <div class="frame8">
+                    <button class="work-purpose" id="workPurpose">
+                      Work purpose
+                    </button>
+                  </div>
+                </div>
+                <div class="frame9">
+                  <div class="frame10">
+                    <button class="work-purpose" id="fun">Fun</button>
+                  </div>
+                </div>
+                <div class="frame9">
+                  <div class="frame12">
+                    <button class="work-purpose" id="helpInTravelling">
+                      Help in Travelling
+                    </button>
+                  </div>
+                </div>
+
+                <div class="frame9">
+                  <div class="frame12">
+                    <button class="work-purpose" id="back">
+                      Back
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame13">
+        <div class="frame14">
+          <img class="logo-icon2" alt="" src="./public/logo.svg" />
+
+          <div class="frame15">
+            <div class="frame16">
+              <a class="rubix005gmailcom2">rubix@005.gmail.com</a>
+            </div>
+            <div class="frame17">
+              <div class="rubix2">Rubix</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var workPurpose = document.getElementById("workPurpose");
+      if (workPurpose) {
+        workPurpose.addEventListener("click", function (e) {
+          window.location.href = "./spainish-work-1.html";
+        });
+      }
+      
+      var fun = document.getElementById("fun");
+      if (fun) {
+        fun.addEventListener("click", function (e) {
+          window.location.href = "./spainish-a1.html";
+        });
+      }
+      
+      var helpInTravelling = document.getElementById("helpInTravelling");
+      if (helpInTravelling) {
+        helpInTravelling.addEventListener("click", function (e) {
+          window.location.href = "./spainish-travel-1.html";
+        });
+      }
+
+      var helpInTravelling = document.getElementById("back");
+      if (helpInTravelling) {
+        helpInTravelling.addEventListener("click", function (e) {
+          window.location.href = "./choose-lang.html";
+        });
+      }
+      </script>
+  </body>
+</html>

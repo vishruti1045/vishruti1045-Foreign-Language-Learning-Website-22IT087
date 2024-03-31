@@ -1,0 +1,150 @@
+.group-child213 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div192 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent113 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.german-travel-5-child,
+.german-travel-5-item {
+  position: absolute;
+  border-radius: var(--br-2xs);
+  width: 338px;
+}
+.german-travel-5-child {
+  top: 611px;
+  left: 320px;
+  background-color: var(--color-gainsboro-200);
+  height: 45px;
+  cursor: pointer;
+}
+.german-travel-5-item {
+  top: 36px;
+  left: 328px;
+  background-color: var(--color-gainsboro-300);
+  height: 62px;
+}
+.lets-travel12 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.german-travel-5-inner {
+  position: absolute;
+  top: 697px;
+  left: 320px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.screenshare-volume-max12 {
+  position: absolute;
+  top: 697px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.first-aid-12 {
+  position: absolute;
+  top: 193px;
+  left: 241px;
+  width: 523px;
+  height: 385px;
+  object-fit: cover;
+}
+.first-aid-kit2 {
+  position: absolute;
+  top: 616px;
+  left: 444px;
+}
+.erste-hilfe-kasten,
+.group-child214 {
+  position: absolute;
+  top: 704px;
+  left: 404px;
+}
+.group-child214 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back32,
+.group-child215 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.group-child215 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue32 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent101,
+.vector-parent102 {
+  position: absolute;
+  top: 0;
+  left: 591px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.vector-parent101 {
+  top: 804px;
+  left: 144px;
+  width: 705px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.german-travel-5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

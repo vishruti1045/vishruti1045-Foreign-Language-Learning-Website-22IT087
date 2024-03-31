@@ -1,0 +1,149 @@
+.group-child231 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div201 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent119 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.japanese-travel-3-child,
+.japanese-travel-3-item {
+  position: absolute;
+  border-radius: var(--br-2xs);
+  width: 338px;
+}
+.japanese-travel-3-child {
+  top: 611px;
+  left: 320px;
+  background-color: var(--color-gainsboro-200);
+  height: 45px;
+  cursor: pointer;
+}
+.japanese-travel-3-item {
+  top: 36px;
+  left: 328px;
+  background-color: var(--color-gainsboro-300);
+  height: 62px;
+}
+.lets-travel18 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.japanese-travel-3-inner {
+  position: absolute;
+  top: 712px;
+  left: 320px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.screenshare-volume-max18 {
+  position: absolute;
+  top: 712px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.beach-1-icon3 {
+  position: absolute;
+  top: 209px;
+  left: 304px;
+  width: 398px;
+  height: 346px;
+  object-fit: cover;
+}
+.beach3 {
+  position: absolute;
+  top: 621px;
+  left: 470px;
+}
+.div202,
+.group-child232 {
+  position: absolute;
+  top: 722px;
+  left: 490px;
+}
+.group-child232 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue38 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-child233,
+.vector-parent113 {
+  position: absolute;
+  top: 827px;
+  left: 708px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.group-child233 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.back38 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent114 {
+  position: absolute;
+  top: 822px;
+  left: 158px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.japanese-travel-3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

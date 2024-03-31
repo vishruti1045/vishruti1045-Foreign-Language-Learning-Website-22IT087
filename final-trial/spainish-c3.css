@@ -1,0 +1,167 @@
+.group-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div10 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.spainish-c3-child {
+  top: 490px;
+  cursor: pointer;
+}
+.spainish-c3-child,
+.spainish-c3-inner,
+.spainish-c3-item {
+  position: absolute;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.spainish-c3-item {
+  top: 797px;
+  cursor: pointer;
+}
+.spainish-c3-inner {
+  top: 686px;
+}
+.what-does-picture10 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.spainish-c3-child1 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary10 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.agato {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 499px;
+  left: 473px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 182px;
+  left: 363px;
+  border-radius: 50%;
+  width: 242px;
+  height: 210px;
+  object-fit: cover;
+}
+.spainish-c3-child2 {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.bperro-perro,
+.cchica,
+.dmujeres {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 591px;
+  left: 473px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.cchica,
+.dmujeres {
+  top: 696px;
+}
+.dmujeres {
+  top: 806px;
+  left: 450px;
+}
+.group-child16,
+.spainish-c3-child3 {
+  position: absolute;
+  top: 490px;
+  left: 364px;
+  width: 35px;
+  height: 349px;
+}
+.group-child16 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back2,
+.vector-parent5 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent5 {
+  top: 905px;
+  left: 437px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.spainish-c3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

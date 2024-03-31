@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./japanese-2d.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="japanese-2d">
+      <div class="rectangle-parent83">
+        <div class="group-child145"></div>
+        <div class="div102">2/5</div>
+      </div>
+      <div class="japanese-2d-child"></div>
+      <div class="japanese-2d-item"></div>
+      <div class="japanese-2d-inner"></div>
+      <div class="what-does-picture82">What does picture shows ?</div>
+      <div class="japanese-2d-child1"></div>
+      <div class="pictionary82">Pictionary</div>
+      <img class="dog-icon37" alt="" src="./public/dog@2x.png" />
+
+      <div class="japanese-2d-child2"></div>
+      <div class="vector-parent63" id="groupContainer1">
+        <img class="group-child146" alt="" src="./public/rectangle-39.svg" />
+
+        <button class="try-again49" id="tryAgain">try again</button>
+      </div>
+      <div class="parent3">
+        <div class="div103">犬</div>
+        <div class="div104">猫</div>
+        <div class="div105">少年</div>
+        <div class="div106">少女</div>
+      </div>
+    </div>
+
+    <script>
+      var tryAgain = document.getElementById("tryAgain");
+      if (tryAgain) {
+        tryAgain.addEventListener("click", function (e) {
+          window.location.href = "./japanese-c.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./japanese-a.html";
+        });
+      }
+      </script>
+  </body>
+</html>

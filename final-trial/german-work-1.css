@@ -1,0 +1,141 @@
+.group-child267 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div215 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent131 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.german-work-1-child {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.lets-greet10 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.german-work-1-item {
+  position: absolute;
+  top: 226px;
+  left: 323px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.hello-good-morning2 {
+  position: absolute;
+  top: 231px;
+  left: 380px;
+}
+.german-work-1-inner {
+  position: absolute;
+  top: 405px;
+  left: 320px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.screenshare-volume-max30 {
+  position: absolute;
+  top: 405px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.group-child268,
+.hallo-guten-morgen {
+  position: absolute;
+  top: 412px;
+  left: 398px;
+}
+.group-child268 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue50 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-child269,
+.vector-parent137 {
+  position: absolute;
+  top: 577px;
+  left: 721px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.group-child269 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.back50 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent138 {
+  position: absolute;
+  top: 572px;
+  left: 171px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.german-work-1 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./japanese-work-1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="japanese-work-1">
+      <div class="rectangle-parent136">
+        <div class="group-child282"></div>
+        <div class="div220">1/5</div>
+      </div>
+      <div class="japanese-work-1-child"></div>
+      <div class="lets-greet15">Let’s Greet</div>
+      <div class="japanese-work-1-item" id="rectangle1"></div>
+      <div class="hello-good-morning3">Hello good morning</div>
+      <div class="japanese-work-1-inner" id="rectangle2"></div>
+      <img
+        class="screenshare-volume-max35"
+        alt=""
+        src="./public/screenshare-volume-max.svg"
+      />
+      <div class="screenshare-volume-max35" id="textToSpeechIcon"></div>
+
+      <div class="div221">おはようございます</div>
+      <div class="vector-parent147" id="groupContainer1">
+        <img class="group-child283" alt="" src="./public/rectangle-39.svg" />
+
+        <button class="continue55" id="continue">Continue</button>
+      </div>
+      <div class="vector-parent148" id="groupContainer2">
+        <img
+          class="group-child284"
+          alt=""
+          src="./public/rectangle-39.svg"
+          id="rectangle"
+        />
+
+        <div class="back55">Back</div>
+      </div>
+    </div>
+
+    <script>
+      
+      var continue1 = document.getElementById("continue");
+      if(continue1) {
+        continue1.addEventListener("click", function (e) {
+          window.location.href = "./japanese-work-2.html"
+        });
+      }
+
+
+      var groupContainer2 = document.getElementById("groupContainer2");
+      if(groupContainer2) {
+        groupContainer2.addEventListener("click", function (e) {
+          window.location.href = "./choose-japan-pur.html"
+        });
+      }
+
+          // Function to handle text-to-speech when the SVG image is clicked
+function handleTextToSpeech() {
+  // Check if the SpeechSynthesis API is available
+  if ('speechSynthesis' in window) {
+    // Create a new SpeechSynthesisUtterance object
+    const message = new SpeechSynthesisUtterance('ohayōgozaimasu');
+
+    // Set additional parameters if needed
+    // For example:
+    // message.rate = 1.2; // Speed of speech (1 is the default)
+
+    // Speak the message
+    window.speechSynthesis.speak(message);
+  } else {
+    // SpeechSynthesis API is not supported
+    alert('Text-to-speech is not supported in this browser.');
+  }
+}
+
+// Add event listener to the SVG image for text-to-speech functionality
+var textToSpeechIcon = document.getElementById("textToSpeechIcon");
+if (textToSpeechIcon) {
+  textToSpeechIcon.addEventListener("click", handleTextToSpeech);
+}
+    </script>
+  </body>
+</html>

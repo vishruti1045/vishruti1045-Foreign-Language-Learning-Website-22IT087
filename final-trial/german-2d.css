@@ -1,0 +1,152 @@
+.group-child100 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div57 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent58 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.german-2d-child,
+.german-2d-inner,
+.german-2d-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.german-2d-inner,
+.german-2d-item {
+  top: 588px;
+}
+.german-2d-inner {
+  top: 797px;
+  background-color: var(--color-lightcoral);
+}
+.what-does-picture57 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  color: var(--color-white);
+}
+.german-2d-child1 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary57 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon27 {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.german-2d-child2 {
+  position: absolute;
+  top: 689px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.group-child101 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.try-again34,
+.vector-parent43 {
+  position: absolute;
+  cursor: pointer;
+}
+.try-again34 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 24px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent43 {
+  top: 918px;
+  left: 458px;
+  width: 114px;
+  height: 43px;
+}
+.hund5,
+.katze5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.katze5 {
+  top: 97px;
+  left: 7px;
+}
+.einen-jungen5,
+.hund-parent3,
+.mdchen1 {
+  position: absolute;
+  top: 195px;
+  left: 7px;
+}
+.hund-parent3,
+.mdchen1 {
+  top: 306px;
+}
+.hund-parent3 {
+  top: 496px;
+  left: 453px;
+  width: 136px;
+  height: 332px;
+}
+.german-2d {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

@@ -1,0 +1,166 @@
+.group-child60 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div35 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent36 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.french-c3-child {
+  top: 490px;
+  cursor: pointer;
+}
+.french-c3-child,
+.french-c3-inner,
+.french-c3-item {
+  position: absolute;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.french-c3-item {
+  top: 797px;
+  cursor: pointer;
+}
+.french-c3-inner {
+  top: 686px;
+}
+.what-does-picture35 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.french-c3-child1 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary35 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.french-c3-child2 {
+  position: absolute;
+  top: 182px;
+  left: 363px;
+  border-radius: 50%;
+  width: 242px;
+  height: 210px;
+  object-fit: cover;
+}
+.french-c3-child3 {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.french-c3-child4 {
+  position: absolute;
+  top: 490px;
+  left: 364px;
+  width: 35px;
+  height: 349px;
+}
+.ale-chat,
+.bchien,
+.cfille,
+.dles-femmes {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.bchien,
+.cfille,
+.dles-femmes {
+  top: 92px;
+}
+.cfille,
+.dles-femmes {
+  top: 197px;
+}
+.dles-femmes {
+  top: 307px;
+  left: 0;
+}
+.ale-chat-parent,
+.group-child61 {
+  position: absolute;
+  top: 497px;
+  left: 444px;
+  width: 112px;
+  height: 333px;
+}
+.group-child61 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back7,
+.vector-parent25 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent25 {
+  top: 908px;
+  left: 440px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.french-c3 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

@@ -1,0 +1,163 @@
+.group-child96 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div55 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent56 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.german-c2-child,
+.german-c2-inner,
+.german-c2-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.german-c2-inner,
+.german-c2-item {
+  top: 588px;
+}
+.german-c2-inner {
+  top: 797px;
+}
+.what-does-picture55 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.german-c2-child1 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary55 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.dog-icon25 {
+  position: absolute;
+  top: 175px;
+  left: 311px;
+  width: 380px;
+  height: 220px;
+  object-fit: cover;
+}
+.german-c2-child2 {
+  position: absolute;
+  top: 689px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.german-c2-child3 {
+  position: absolute;
+  top: 490px;
+  left: 364px;
+  width: 38px;
+  height: 355px;
+}
+.ahund1,
+.bkatze1,
+.ceinen-jungen1,
+.dmdchen {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.bkatze1,
+.ceinen-jungen1,
+.dmdchen {
+  top: 97px;
+  left: 7px;
+}
+.ceinen-jungen1,
+.dmdchen {
+  top: 195px;
+}
+.dmdchen {
+  top: 306px;
+}
+.ahund-group,
+.group-child97 {
+  position: absolute;
+  top: 496px;
+  left: 432px;
+  width: 136px;
+  height: 332px;
+}
+.group-child97 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back11,
+.vector-parent41 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent41 {
+  top: 905px;
+  left: 450px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.german-c2 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

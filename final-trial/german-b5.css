@@ -1,0 +1,160 @@
+.group-child123 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div70 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent71 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.german-b5-child,
+.german-b5-child1,
+.german-b5-inner,
+.german-b5-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.german-b5-child1,
+.german-b5-inner,
+.german-b5-item {
+  top: 588px;
+}
+.german-b5-child1,
+.german-b5-inner {
+  top: 797px;
+}
+.german-b5-child1 {
+  top: 686px;
+}
+.what-does-picture70 {
+  position: absolute;
+  top: 411px;
+  left: 364px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.german-b5-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary70 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.german-b5-child3 {
+  position: absolute;
+  top: 161px;
+  left: 358px;
+  width: 265px;
+  height: 189px;
+  object-fit: cover;
+}
+.ahund2,
+.boh-mann,
+.ceinen-jungen2,
+.dkatze {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.boh-mann,
+.ceinen-jungen2,
+.dkatze {
+  top: 97px;
+}
+.ceinen-jungen2,
+.dkatze {
+  top: 197px;
+  left: 6px;
+}
+.dkatze {
+  top: 307px;
+  left: 4px;
+}
+.ahund-container {
+  position: absolute;
+  top: 500px;
+  left: 441px;
+  width: 135px;
+  height: 333px;
+}
+.german-b5-child4,
+.group-child124 {
+  position: absolute;
+  top: 487px;
+  left: 364px;
+  width: 40px;
+  height: 355px;
+}
+.group-child124 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back14,
+.vector-parent53 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent53 {
+  top: 903px;
+  left: 455px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.german-b5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

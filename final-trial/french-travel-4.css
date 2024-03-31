@@ -1,0 +1,150 @@
+.group-child195 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div186 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent107 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.french-travel-4-child,
+.french-travel-4-item {
+  position: absolute;
+  border-radius: var(--br-2xs);
+  width: 338px;
+}
+.french-travel-4-child {
+  top: 611px;
+  left: 320px;
+  background-color: var(--color-gainsboro-200);
+  height: 45px;
+  cursor: pointer;
+}
+.french-travel-4-item {
+  top: 36px;
+  left: 328px;
+  background-color: var(--color-gainsboro-300);
+  height: 62px;
+}
+.lets-travel6 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.french-travel-4-inner {
+  position: absolute;
+  top: 705px;
+  left: 317px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.screenshare-volume-max6 {
+  position: absolute;
+  top: 705px;
+  left: 341px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.hotel-1-icon1 {
+  position: absolute;
+  top: 199px;
+  left: 317px;
+  width: 349px;
+  height: 361px;
+  object-fit: cover;
+}
+.places-to-visit1 {
+  position: absolute;
+  top: 621px;
+  left: 433px;
+}
+.endroits-visiter,
+.group-child196 {
+  position: absolute;
+  top: 715px;
+  left: 407px;
+}
+.group-child196 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back26,
+.group-child197 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.group-child197 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue26 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent89,
+.vector-parent90 {
+  position: absolute;
+  top: 0;
+  left: 591px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.vector-parent89 {
+  top: 808px;
+  left: 145px;
+  width: 705px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.french-travel-4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

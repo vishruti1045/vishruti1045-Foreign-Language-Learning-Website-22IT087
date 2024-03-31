@@ -1,0 +1,148 @@
+.group-child122 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div69 {
+  position: absolute;
+  top: 2px;
+  left: 81px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent70 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.german-4d-child,
+.german-4d-child1,
+.german-4d-inner,
+.german-4d-item {
+  position: absolute;
+  top: 773px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-aquamarine);
+  width: 338px;
+  height: 45px;
+}
+.german-4d-child1,
+.german-4d-inner,
+.german-4d-item {
+  top: 588px;
+  background-color: var(--color-gainsboro-200);
+}
+.german-4d-child1,
+.german-4d-inner {
+  top: 680px;
+}
+.german-4d-child1 {
+  top: 486px;
+  left: 327px;
+}
+.german-4d-child2 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue13,
+.what-does-picture69 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture69 {
+  top: 411px;
+  left: 364px;
+}
+.german-4d-child3 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary69 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.german-4d-child4 {
+  position: absolute;
+  top: 186px;
+  left: 395px;
+  border-radius: 50%;
+  width: 190px;
+  height: 208px;
+  object-fit: cover;
+}
+.mdchen11,
+.weiblich7 {
+  position: absolute;
+  top: 288px;
+  left: 0;
+}
+.mdchen11 {
+  top: 0;
+  left: 6px;
+}
+.katze15,
+.oh-mann7 {
+  position: absolute;
+  top: 98px;
+  left: 8px;
+}
+.oh-mann7 {
+  top: 193px;
+  left: 6px;
+}
+.german-4d-inner1,
+.weiblich-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 98px;
+  height: 314px;
+}
+.german-4d-inner1 {
+  top: 486px;
+  left: 448px;
+}
+.german-4d {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

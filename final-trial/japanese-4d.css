@@ -1,0 +1,149 @@
+.group-child167 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div154 {
+  position: absolute;
+  top: 2px;
+  left: 81px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent95 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.japanese-4d-child,
+.japanese-4d-child1,
+.japanese-4d-inner,
+.japanese-4d-item {
+  position: absolute;
+  top: 773px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-aquamarine);
+  width: 338px;
+  height: 45px;
+}
+.japanese-4d-child1,
+.japanese-4d-inner,
+.japanese-4d-item {
+  top: 588px;
+  background-color: var(--color-gainsboro-200);
+}
+.japanese-4d-child1,
+.japanese-4d-inner {
+  top: 680px;
+}
+.japanese-4d-child1 {
+  top: 486px;
+  left: 327px;
+}
+.japanese-4d-child2 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue18,
+.what-does-picture94 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue18 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture94 {
+  top: 411px;
+  left: 364px;
+}
+.japanese-4d-child3 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary94 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.japanese-4d-child4 {
+  position: absolute;
+  top: 186px;
+  left: 395px;
+  border-radius: 50%;
+  width: 190px;
+  height: 208px;
+  object-fit: cover;
+}
+.div155 {
+  position: absolute;
+  top: 288px;
+  left: 0;
+}
+.div156,
+.div157,
+.div158 {
+  position: absolute;
+  top: 0;
+  left: 6px;
+}
+.div157,
+.div158 {
+  top: 98px;
+  left: 8px;
+}
+.div158 {
+  top: 193px;
+  left: 6px;
+}
+.japanese-4d-inner1,
+.parent13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 46px;
+  height: 314px;
+}
+.japanese-4d-inner1 {
+  top: 497px;
+  left: 477px;
+}
+.japanese-4d {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

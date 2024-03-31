@@ -1,0 +1,141 @@
+.group-child255 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div211 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent127 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.french-work-5-child {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.lets-greet6 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.french-work-5-inner,
+.french-work-5-item {
+  position: absolute;
+  top: 226px;
+  left: 323px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.french-work-5-inner {
+  top: 405px;
+  left: 320px;
+  width: 360px;
+}
+.screenshare-volume-max26 {
+  position: absolute;
+  top: 405px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.ill-update-you1 {
+  position: absolute;
+  top: 236px;
+  left: 420px;
+}
+.group-child256,
+.je-te-tiendrai {
+  position: absolute;
+  top: 411px;
+  left: 388px;
+}
+.group-child256 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back46 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.group-child257,
+.vector-parent129 {
+  position: absolute;
+  width: 114px;
+  height: 43px;
+}
+.vector-parent129 {
+  top: 547px;
+  left: 147px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group-child257 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.continue46,
+.vector-parent130 {
+  position: absolute;
+  cursor: pointer;
+}
+.continue46 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent130 {
+  top: 552px;
+  left: 697px;
+  width: 114px;
+  height: 43px;
+}
+.french-work-5 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

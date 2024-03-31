@@ -1,0 +1,136 @@
+.group-child246 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div208 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent124 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.spainish-work-4-child {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.lets-greet3 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.spainish-work-4-inner,
+.spainish-work-4-item {
+  position: absolute;
+  top: 226px;
+  left: 323px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+  cursor: pointer;
+}
+.spainish-work-4-inner {
+  top: 405px;
+  left: 320px;
+}
+.screenshare-volume-max23 {
+  position: absolute;
+  top: 405px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.sorry-for-inconvenience {
+  position: absolute;
+  top: 237px;
+  left: 368px;
+}
+.disculpe-las-molestias,
+.group-child247 {
+  position: absolute;
+  top: 412px;
+  left: 382px;
+}
+.group-child247 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue43 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.group-child248,
+.vector-parent123 {
+  position: absolute;
+  top: 549px;
+  left: 738px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.group-child248 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.back43 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+}
+.vector-parent124 {
+  position: absolute;
+  top: 544px;
+  left: 188px;
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.spainish-work-4 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

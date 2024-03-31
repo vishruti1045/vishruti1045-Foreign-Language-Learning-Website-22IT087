@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./choose-lang.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="choose-lang">
+      <img
+        class="data-management-reciept-doc"
+        alt=""
+        src="./public/data-management---reciept-document-paper-page-woman-people-pages@2x.png"
+      />
+
+      <div class="rectangle-parent">
+        <div class="frame-child"></div>
+        <div class="choose-the-language">Choose the Language</div>
+      </div>
+      <div class="which-foreign-language">
+        Which foreign language do you want to learn? Let's choose!
+      </div>
+      <div class="french-wrapper">
+        <button class="french1" id="french">French</button>
+      </div>
+      <div class="spain-1-parent">
+        <img class="spain-1-icon" alt="" src="./public/spain-1@2x.png" />
+
+        <button class="spanish1" id="spanish">Spanish</button>
+      </div>
+      <img class="choose-lang-child" alt="" src="./public/group-10.svg" />
+
+      <div class="german-1-parent">
+        <img class="german-1-icon" alt="" src="./public/german-1@2x.png" />
+
+        <button class="german" id="german">German</button>
+      </div>
+      <img class="france-icon" alt="" src="./public/france.svg" />
+
+      <img class="logo-icon1" alt="" src="./public/logo.svg" />
+
+      <div class="rubix1">Rubix</div>
+      <a class="rubix005gmailcom1">rubix@005.gmail.com</a>
+      <button class="japanese1" id="japanese">Japanese</button>
+    </div>
+
+    <script>
+      var french = document.getElementById("french");
+      if (french) {
+        french.addEventListener("click", function (e) {
+          window.location.href = "./choose-french-pur.html";
+        });
+      }
+      
+      var spanish = document.getElementById("spanish");
+      if (spanish) {
+        spanish.addEventListener("click", function (e) {
+          window.location.href = "./choose-spain-pur.html";
+        });
+      }
+      
+      var german = document.getElementById("german");
+      if (german) {
+        german.addEventListener("click", function (e) {
+          window.location.href = "./choose-ger-pur.html";
+        });
+      }
+      
+      var japanese = document.getElementById("japanese");
+      if (japanese) {
+        japanese.addEventListener("click", function (e) {
+          window.location.href = "./choose-japan-pur.html";
+        });
+      }
+      </script>
+  </body>
+</html>

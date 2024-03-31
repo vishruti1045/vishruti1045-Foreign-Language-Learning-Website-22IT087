@@ -1,0 +1,147 @@
+.group-child158 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div133 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent90 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+  font-size: var(--font-size-mini);
+}
+.japanese-3c-child,
+.japanese-3c-inner,
+.japanese-3c-item {
+  position: absolute;
+  top: 490px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.japanese-3c-inner,
+.japanese-3c-item {
+  top: 797px;
+}
+.japanese-3c-inner {
+  top: 686px;
+  background-color: var(--color-aquamarine);
+}
+.japanese-3c-child1 {
+  position: absolute;
+  top: 929px;
+  left: 634px;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+}
+.continue17,
+.what-does-picture89 {
+  position: absolute;
+  color: var(--color-white);
+}
+.continue17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 940px;
+  left: 657px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  text-align: left;
+  display: inline-block;
+}
+.what-does-picture89 {
+  top: 411px;
+  left: 364px;
+}
+.japanese-3c-child2 {
+  position: absolute;
+  top: 36px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 338px;
+  height: 62px;
+}
+.pictionary89 {
+  position: absolute;
+  top: 46px;
+  left: 423px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.japanese-3c-child3 {
+  position: absolute;
+  top: 182px;
+  left: 363px;
+  border-radius: 50%;
+  width: 242px;
+  height: 210px;
+  object-fit: cover;
+}
+.japanese-3c-child4 {
+  position: absolute;
+  top: 588px;
+  left: 328px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.div134 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+}
+.div135,
+.div136,
+.div137,
+.parent9 {
+  position: absolute;
+  top: 92px;
+  left: 23px;
+}
+.div136,
+.div137,
+.parent9 {
+  top: 197px;
+}
+.div137,
+.parent9 {
+  top: 307px;
+  left: 0;
+}
+.parent9 {
+  top: 509px;
+  left: 468px;
+  width: 63px;
+  height: 333px;
+}
+.japanese-3c {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 1000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-krub);
+}

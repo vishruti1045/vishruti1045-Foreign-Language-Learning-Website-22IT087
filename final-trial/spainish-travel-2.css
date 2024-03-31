@@ -1,0 +1,164 @@
+.group-child180 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-300);
+  width: 193px;
+  height: 25px;
+}
+.div181 {
+  position: absolute;
+  top: 2px;
+  left: 82px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 23px;
+  height: 20px;
+}
+.rectangle-parent102 {
+  position: absolute;
+  top: 136px;
+  left: 392px;
+  width: 193px;
+  height: 25px;
+}
+.spainish-travel-2-child,
+.spainish-travel-2-item {
+  position: absolute;
+  border-radius: var(--br-2xs);
+  width: 338px;
+}
+.spainish-travel-2-child {
+  top: 611px;
+  left: 320px;
+  background-color: var(--color-gainsboro-200);
+  height: 45px;
+  cursor: pointer;
+}
+.spainish-travel-2-item {
+  top: 36px;
+  left: 328px;
+  background-color: var(--color-gainsboro-300);
+  height: 62px;
+}
+.lets-travel1 {
+  position: absolute;
+  top: 46px;
+  left: 420px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+}
+.spainish-travel-2-inner {
+  position: absolute;
+  top: 710px;
+  left: 320px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gainsboro-200);
+  width: 338px;
+  height: 45px;
+}
+.screenshare-volume-max1 {
+  position: absolute;
+  top: 710px;
+  left: 344px;
+  width: 30px;
+  height: 40px;
+  overflow: hidden;
+}
+.resturant-1-icon {
+  position: absolute;
+  top: 205px;
+  left: 288px;
+  width: 418px;
+  height: 352px;
+  object-fit: cover;
+}
+.restaurant,
+.restaurante {
+  position: absolute;
+  top: 621px;
+  left: 437px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-krub);
+  color: var(--color-black);
+  text-align: left;
+}
+.restaurante {
+  top: 720px;
+  left: 448px;
+}
+.group-child181 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 114px;
+  height: 43px;
+  cursor: pointer;
+}
+.back21 {
+  position: absolute;
+  top: 11px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+}
+.group-child182,
+.vector-parent79 {
+  position: absolute;
+  width: 114px;
+  height: 43px;
+}
+.vector-parent79 {
+  top: 804px;
+  left: 175px;
+  cursor: pointer;
+}
+.group-child182 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+}
+.continue21,
+.vector-parent80 {
+  position: absolute;
+  cursor: pointer;
+}
+.continue21 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-krub);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vector-parent80 {
+  top: 809px;
+  left: 725px;
+  width: 114px;
+  height: 43px;
+}
+.spainish-travel-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #3763d3, #0f2e7e);
+  height: 900px;
+  overflow: hidden;
+}

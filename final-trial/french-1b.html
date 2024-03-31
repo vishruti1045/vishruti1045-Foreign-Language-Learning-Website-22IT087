@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./french-1b.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Krub:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="french-1b">
+      <div class="rectangle-parent29">
+        <div class="group-child48"></div>
+        <div class="div28">1/5</div>
+      </div>
+      <div class="french-1b-child"></div>
+      <div class="french-1b-item"></div>
+      <div class="french-1b-inner"></div>
+      <div class="french-1b-child1"></div>
+      <div class="vector-parent20" id="groupContainer1">
+        <img
+          class="group-child49"
+          alt=""
+          src="./public/rectangle-39.svg"
+          data-scroll-to="rectangle"
+        />
+
+        <button class="try-again17" id="tryAgain">try again</button>
+      </div>
+      <div class="what-does-picture28">What does picture shows ?</div>
+      <div class="french-1b-child2"></div>
+      <div class="pictionary28">Pictionary</div>
+      <img class="dog-icon13" alt="" src="./public/dog@2x.png" />
+
+      <div class="chien-container">
+        <div class="chien2">chien</div>
+        <div class="le-chat2">Le chat</div>
+        <div class="garon2">garçon</div>
+        <div class="homme2">homme</div>
+      </div>
+    </div>
+
+    <script>
+      var tryAgain = document.getElementById("tryAgain");
+      if (tryAgain) {
+        tryAgain.addEventListener("click", function (e) {
+          window.location.href = "./french-a1.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='rectangle']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      </script>
+  </body>
+</html>
